@@ -1,0 +1,72 @@
+body {
+    background-image: url("D2.jpeg");
+    opacity: 0.9;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+#caja1{
+        opacity: 0.7;
+        border: 10px solid blue;
+        margin: 0px auto;
+        border: 5px solid black ;
+        border: groove;
+        color:black;
+        width: 500px;
+        background-color: lightblue;
+        float: left;
+        
+}
+#caja2{
+        opacity: 0.7;
+        border: 10px solid blue;
+        margin: 0px auto;
+        border: 5px solid black ;
+        border: groove;
+        color:black;
+        width: 500px;
+        background-color: lightblue;
+        float: right;
+        
+}
+
+aside {
+         
+         float: right;
+         background-image: url("D2raid.jpg");
+	 background-position:center;
+         background-repeat: repeat;
+         width: 300px;
+         height: 500px;
+         border: 15px solid blue;
+         padding: 50px;
+         margin: 20px;
+ }
+
+div {
+  background-color: lightgrey;
+  width: 300px;
+  border: 15px solid green;
+  padding: 50px;
+  margin: 20px;
+}
+
+table {
+  background-color: lightgrey;
+  width: 300px;
+  border: 15px solid green;
+  padding: 50px;
+  margin: 20px;
+}
+
+
+header {
+  background-color:lightblue;
+  width: auto;
+  
+  border: 5px solid green;
+  padding: 50px;
+  margin: 20px;
+  text-align:center;
+}
